@@ -1,0 +1,15 @@
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\bin\Debug\net7.0\Aula01_Variaveis.exe
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\bin\Debug\net7.0\Aula01_Variaveis.deps.json
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\bin\Debug\net7.0\Aula01_Variaveis.runtimeconfig.json
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\bin\Debug\net7.0\Aula01_Variaveis.dll
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\bin\Debug\net7.0\Aula01_Variaveis.pdb
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.csproj.AssemblyReference.cache
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.AssemblyInfoInputs.cache
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.AssemblyInfo.cs
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.csproj.CoreCompileInputs.cache
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.dll
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\refint\Aula01_Variaveis.dll
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.pdb
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\Aula01_Variaveis.genruntimeconfig.cache
+D:\2DS_Vinicius.Coelho\C#\Aula01_Variaveis\obj\Debug\net7.0\ref\Aula01_Variaveis.dll
